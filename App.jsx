@@ -23,7 +23,7 @@ function App() {
           I didn't know about IGEM last year. This year, my carpool started talking about this club
           and their conversation got me interested in this. I want to gain a better understanding
           on topics biology related and want to improve my coding skills while participating in this competiton,
-          therefore I joined.
+          therefore I joined!
         </p>
       </section>
 
